@@ -1,0 +1,11 @@
+{
+  "id": "aolha.mwoof",
+  "name": "mwoof",
+  "version": "1.0.0",
+  "developer": "Aolha",
+  "description": "Automatically mutes Geometry Dash when the game window is out of focus and restores volume when you return.",
+  "geode": ">=2.0.0",
+  "gd": {
+    "windows": ">=2.204"
+  }
+}
